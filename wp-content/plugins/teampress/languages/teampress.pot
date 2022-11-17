@@ -1,0 +1,1884 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeamPress\n"
+"POT-Creation-Date: 2019-06-21 10:39+0700\n"
+"PO-Revision-Date: 2019-06-21 10:40+0700\n"
+"Last-Translator: \n"
+"Language-Team: Ex Themes\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: teampress/admin/class-teampress-postype.php:19
+#: teampress/admin/class-teampress-postype.php:20
+#: teampress/admin/class-teampress-postype.php:31
+msgid "Team"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:21
+#: teampress/admin/class-teampress-postype.php:22
+msgid "Add New Member"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:23
+msgid "Edit Member"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:24
+msgid "New Member"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:25
+msgid "Members"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:26
+msgid "View Member"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:27
+msgid "Search Member"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:28
+msgid "No Member found"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:29
+msgid "No Member found in Trash"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:60
+#: teampress/admin/class-teampress-postype.php:61
+#: teampress/admin/shortcode-builder.php:257
+#: teampress/inc/shortcodes/teampress-carousel.php:206
+#: teampress/inc/shortcodes/teampress-grid.php:235
+#: teampress/inc/shortcodes/teampress-list.php:185
+#: teampress/inc/shortcodes/teampress-table.php:276
+msgid "Category"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:62
+#: teampress/admin/class-teampress-postype.php:109
+#: teampress/inc/functions.php:911
+msgid "Search"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:63
+msgid "All category"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:64
+msgid "Parent category"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:65
+msgid "Parent category:"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:66
+msgid "Edit category"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:67
+msgid "Update category"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:68
+msgid "Add New category"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:69
+msgid "Categories"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:88
+#: teampress/admin/class-teampress-postype.php:135
+msgid "Category Metabox"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:94
+#: teampress/admin/class-teampress-postype.php:153
+msgid "Order Category"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:107
+#: teampress/admin/class-teampress-postype.php:108
+#: teampress/admin/shortcode-builder.php:263
+#: teampress/inc/shortcodes/teampress-carousel.php:214
+#: teampress/inc/shortcodes/teampress-grid.php:243
+#: teampress/inc/shortcodes/teampress-list.php:193
+#: teampress/inc/shortcodes/teampress-table.php:284
+msgid "Location"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:110
+msgid "All location"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:111
+msgid "Parent location"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:112
+msgid "Parent location:"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:113
+msgid "Edit location"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:114
+msgid "Update location"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:115
+msgid "Add New location"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:116
+msgid "Locations"
+msgstr ""
+
+#: teampress/admin/class-teampress-postype.php:141
+#: teampress/admin/class-teampress-postype.php:166
+msgid "Order Location"
+msgstr ""
+
+#: teampress/admin/functions.php:16 teampress/admin/functions.php:94
+#: teampress/admin/shortcode-builder.php:291
+#: teampress/inc/shortcodes/teampress-carousel.php:247
+#: teampress/inc/shortcodes/teampress-grid.php:276
+#: teampress/inc/shortcodes/teampress-list.php:226
+#: teampress/inc/shortcodes/teampress-table.php:317
+msgid "ID"
+msgstr ""
+
+#: teampress/admin/functions.php:17
+#: teampress/admin/inc/metadata-functions.php:62
+#: teampress/inc/shortcodes/teampress-table.php:143
+msgid "Position"
+msgstr ""
+
+#: teampress/admin/functions.php:18 teampress/admin/shortcode-builder.php:269
+#: teampress/inc/shortcodes/teampress-carousel.php:231
+#: teampress/inc/shortcodes/teampress-grid.php:260
+#: teampress/inc/shortcodes/teampress-list.php:210
+#: teampress/inc/shortcodes/teampress-table.php:301
+msgid "Order"
+msgstr ""
+
+#: teampress/admin/functions.php:19
+#: teampress/admin/inc/metadata-functions.php:84
+msgid "Color"
+msgstr ""
+
+#: teampress/admin/functions.php:20 teampress/admin/functions.php:54
+msgid "Publish date"
+msgstr ""
+
+#: teampress/admin/functions.php:52 teampress/admin/shortcode-builder.php:118
+msgid "Type"
+msgstr ""
+
+#: teampress/admin/functions.php:53 teampress/admin/shortcode-builder.php:133
+msgid "Shortcode"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:73
+#: teampress/admin/shortcode-builder.php:74
+#: teampress/admin/shortcode-builder.php:85
+msgid "Shortcodes"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:75
+#: teampress/admin/shortcode-builder.php:76
+msgid "Add New Shortcodes"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:77
+msgid "Edit Shortcodes"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:78
+msgid "New Shortcode"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:79
+msgid "Shortcodes builder"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:80
+msgid "View Shortcodes"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:81
+msgid "Search Shortcodes"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:82
+msgid "No Shortcode found"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:83
+msgid "No Shortcode found in Trash"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:113
+msgid "Shortcode type"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:119
+msgid "Select type of shortcode"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:125
+msgid "Grid"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:126
+msgid "Table"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:127
+msgid "List"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:128
+msgid "Carousel"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:134
+msgid ""
+"Copy this shortcode and paste it into your post, page, or text widget "
+"content:"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:145
+msgid "Option"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:150
+#: teampress/inc/shortcodes/teampress-carousel.php:122
+#: teampress/inc/shortcodes/teampress-grid.php:144
+#: teampress/inc/shortcodes/teampress-list.php:136
+#: teampress/inc/shortcodes/teampress-table.php:228
+msgid "Style"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:151
+msgid "Select style of shortcode"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:158
+#: teampress/inc/shortcodes/teampress-carousel.php:125
+#: teampress/inc/shortcodes/teampress-grid.php:147
+#: teampress/inc/shortcodes/teampress-list.php:139
+#: teampress/inc/shortcodes/teampress-table.php:231
+msgid "1"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:159
+#: teampress/inc/shortcodes/teampress-carousel.php:126
+#: teampress/inc/shortcodes/teampress-grid.php:148
+#: teampress/inc/shortcodes/teampress-list.php:140
+#: teampress/inc/shortcodes/teampress-table.php:232
+msgid "2"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:160
+#: teampress/inc/shortcodes/teampress-carousel.php:127
+#: teampress/inc/shortcodes/teampress-grid.php:149
+#: teampress/inc/shortcodes/teampress-list.php:141
+msgid "3"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:161
+#: teampress/inc/shortcodes/teampress-carousel.php:128
+#: teampress/inc/shortcodes/teampress-grid.php:150
+msgid "4"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:162
+#: teampress/inc/shortcodes/teampress-carousel.php:129
+#: teampress/inc/shortcodes/teampress-grid.php:151
+msgid "5"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:163
+#: teampress/inc/shortcodes/teampress-carousel.php:130
+#: teampress/inc/shortcodes/teampress-grid.php:152
+msgid "6"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:164
+#: teampress/inc/shortcodes/teampress-carousel.php:131
+#: teampress/inc/shortcodes/teampress-grid.php:153
+msgid "7"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:165
+#: teampress/inc/shortcodes/teampress-carousel.php:132
+#: teampress/inc/shortcodes/teampress-grid.php:154
+msgid "8"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:166
+#: teampress/inc/shortcodes/teampress-carousel.php:133
+#: teampress/inc/shortcodes/teampress-grid.php:155
+msgid "9"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:167
+#: teampress/inc/shortcodes/teampress-carousel.php:134
+#: teampress/inc/shortcodes/teampress-grid.php:156
+msgid "10"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:168
+#: teampress/inc/shortcodes/teampress-carousel.php:135
+#: teampress/inc/shortcodes/teampress-grid.php:157
+msgid "11"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:169
+#: teampress/inc/shortcodes/teampress-carousel.php:136
+#: teampress/inc/shortcodes/teampress-grid.php:158
+msgid "12"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:170
+#: teampress/inc/shortcodes/teampress-carousel.php:137
+#: teampress/inc/shortcodes/teampress-grid.php:159
+msgid "13"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:171
+#: teampress/inc/shortcodes/teampress-carousel.php:138
+#: teampress/inc/shortcodes/teampress-grid.php:160
+msgid "14"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:172
+#: teampress/inc/shortcodes/teampress-carousel.php:139
+#: teampress/inc/shortcodes/teampress-grid.php:161
+msgid "15"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:173
+#: teampress/inc/shortcodes/teampress-carousel.php:140
+#: teampress/inc/shortcodes/teampress-grid.php:162
+msgid "16"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:174
+#: teampress/inc/shortcodes/teampress-carousel.php:141
+#: teampress/inc/shortcodes/teampress-grid.php:163
+msgid "17"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:175
+#: teampress/inc/shortcodes/teampress-carousel.php:142
+#: teampress/inc/shortcodes/teampress-grid.php:164
+msgid "18"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:176
+#: teampress/inc/shortcodes/teampress-carousel.php:143
+#: teampress/inc/shortcodes/teampress-grid.php:165
+msgid "19"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:177
+#: teampress/inc/shortcodes/teampress-carousel.php:144
+#: teampress/inc/shortcodes/teampress-grid.php:166
+msgid "20"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:178
+#: teampress/inc/shortcodes/teampress-carousel.php:145
+#: teampress/inc/shortcodes/teampress-grid.php:167
+msgid "Image hover 1"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:179
+#: teampress/inc/shortcodes/teampress-carousel.php:146
+#: teampress/inc/shortcodes/teampress-grid.php:168
+msgid "Image hover 2"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:180
+#: teampress/inc/shortcodes/teampress-carousel.php:147
+#: teampress/inc/shortcodes/teampress-grid.php:169
+msgid "Image hover 3"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:181
+#: teampress/inc/shortcodes/teampress-carousel.php:148
+#: teampress/inc/shortcodes/teampress-grid.php:170
+msgid "Image hover 4"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:182
+#: teampress/inc/shortcodes/teampress-carousel.php:149
+#: teampress/inc/shortcodes/teampress-grid.php:171
+msgid "Image hover 5"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:183
+#: teampress/inc/shortcodes/teampress-carousel.php:150
+#: teampress/inc/shortcodes/teampress-grid.php:172
+msgid "Image hover 6"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:184
+#: teampress/inc/shortcodes/teampress-carousel.php:151
+#: teampress/inc/shortcodes/teampress-grid.php:173
+msgid "Image hover 7"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:185
+#: teampress/inc/shortcodes/teampress-carousel.php:152
+#: teampress/inc/shortcodes/teampress-grid.php:174
+msgid "Image hover 8"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:186
+#: teampress/inc/shortcodes/teampress-carousel.php:153
+#: teampress/inc/shortcodes/teampress-grid.php:175
+msgid "Image hover 9"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:187
+#: teampress/inc/shortcodes/teampress-carousel.php:154
+#: teampress/inc/shortcodes/teampress-grid.php:176
+msgid "Image hover 10"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:192
+#: teampress/inc/shortcodes/teampress-grid.php:184
+msgid "Columns"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:193
+msgid "Select Columns of shortcode"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:200
+#: teampress/inc/shortcodes/teampress-grid.php:187
+msgid "2 columns"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:201
+#: teampress/inc/shortcodes/teampress-grid.php:188
+msgid "3 columns"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:202
+#: teampress/inc/shortcodes/teampress-grid.php:189
+msgid "4 columns"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:203
+#: teampress/inc/shortcodes/teampress-grid.php:190
+msgid "5 columns"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:207
+#: teampress/inc/shortcodes/teampress-carousel.php:161
+#: teampress/inc/shortcodes/teampress-grid.php:197
+#: teampress/inc/shortcodes/teampress-list.php:148
+#: teampress/inc/shortcodes/teampress-table.php:239
+msgid "Count"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:208
+#: teampress/inc/shortcodes/teampress-carousel.php:164
+#: teampress/inc/shortcodes/teampress-grid.php:200
+#: teampress/inc/shortcodes/teampress-list.php:151
+#: teampress/inc/shortcodes/teampress-table.php:242
+msgid "Number of posts"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:214
+#: teampress/inc/shortcodes/teampress-grid.php:205
+#: teampress/inc/shortcodes/teampress-list.php:156
+#: teampress/inc/shortcodes/teampress-table.php:247
+msgid "Posts per page"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:215
+#: teampress/inc/shortcodes/teampress-grid.php:208
+#: teampress/inc/shortcodes/teampress-list.php:159
+#: teampress/inc/shortcodes/teampress-table.php:250
+msgid "Number items per page"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:221
+msgid "Number items visible"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:222
+#: teampress/admin/shortcode-builder.php:229
+#: teampress/admin/shortcode-builder.php:321
+#: teampress/inc/shortcodes/teampress-carousel.php:172
+#: teampress/inc/shortcodes/teampress-carousel.php:180
+#: teampress/inc/shortcodes/teampress-grid.php:313
+#: teampress/inc/shortcodes/teampress-list.php:263
+#: teampress/inc/shortcodes/teampress-table.php:354
+msgid "Enter number"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:228
+#: teampress/inc/shortcodes/teampress-carousel.php:177
+msgid "Number item to scroll"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:235
+#: teampress/inc/shortcodes/teampress-carousel.php:186
+#: teampress/inc/shortcodes/teampress-grid.php:214
+#: teampress/inc/shortcodes/teampress-list.php:165
+#: teampress/inc/shortcodes/teampress-table.php:256
+msgid "Full content in"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:236
+#: teampress/inc/shortcodes/teampress-carousel.php:193
+#: teampress/inc/shortcodes/teampress-grid.php:222
+#: teampress/inc/shortcodes/teampress-list.php:172
+#: teampress/inc/shortcodes/teampress-table.php:263
+msgid "Show full infomartion member in"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:243
+#: teampress/admin/shortcode-builder.php:302
+#: teampress/admin/inc/cmb2/includes/CMB2_Field.php:1328
+#: teampress/admin/inc/cmb2/includes/CMB2_Field.php:1332
+#: teampress/inc/shortcodes/teampress-carousel.php:189
+#: teampress/inc/shortcodes/teampress-carousel.php:258
+#: teampress/inc/shortcodes/teampress-grid.php:217
+#: teampress/inc/shortcodes/teampress-grid.php:287
+#: teampress/inc/shortcodes/teampress-list.php:168
+#: teampress/inc/shortcodes/teampress-list.php:237
+#: teampress/inc/shortcodes/teampress-table.php:259
+#: teampress/inc/shortcodes/teampress-table.php:328
+msgid "None"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:244
+#: teampress/inc/shortcodes/teampress-carousel.php:190
+#: teampress/inc/shortcodes/teampress-grid.php:218
+#: teampress/inc/shortcodes/teampress-list.php:169
+#: teampress/inc/shortcodes/teampress-table.php:260
+msgid "Lightbox"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:245
+#: teampress/inc/shortcodes/teampress-grid.php:219
+msgid "Collapse"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:246
+#: teampress/inc/shortcodes/teampress-carousel.php:191
+#: teampress/inc/shortcodes/teampress-grid.php:220
+#: teampress/inc/shortcodes/teampress-list.php:170
+#: teampress/inc/shortcodes/teampress-table.php:261
+msgid "Modal"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:250
+#: teampress/inc/shortcodes/teampress-carousel.php:198
+#: teampress/inc/shortcodes/teampress-grid.php:227
+#: teampress/inc/shortcodes/teampress-list.php:177
+#: teampress/inc/shortcodes/teampress-table.php:268
+msgid "IDs"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:251
+#: teampress/inc/shortcodes/teampress-carousel.php:201
+#: teampress/inc/shortcodes/teampress-grid.php:230
+#: teampress/inc/shortcodes/teampress-list.php:180
+#: teampress/inc/shortcodes/teampress-table.php:271
+msgid "Specify post IDs to retrieve"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:258
+#: teampress/inc/shortcodes/teampress-carousel.php:209
+#: teampress/inc/shortcodes/teampress-grid.php:238
+#: teampress/inc/shortcodes/teampress-list.php:188
+#: teampress/inc/shortcodes/teampress-table.php:279
+msgid "List of cat ID (or slug), separated by a comma"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:264
+#: teampress/inc/shortcodes/teampress-carousel.php:217
+#: teampress/inc/shortcodes/teampress-grid.php:246
+#: teampress/inc/shortcodes/teampress-list.php:196
+#: teampress/inc/shortcodes/teampress-table.php:287
+msgid "List of location ID (or slug), separated by a comma"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:277
+#: teampress/inc/shortcodes/teampress-carousel.php:234
+#: teampress/inc/shortcodes/teampress-grid.php:263
+#: teampress/inc/shortcodes/teampress-list.php:213
+#: teampress/inc/shortcodes/teampress-table.php:304
+msgid "DESC"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:278
+#: teampress/inc/shortcodes/teampress-carousel.php:235
+#: teampress/inc/shortcodes/teampress-grid.php:264
+#: teampress/inc/shortcodes/teampress-list.php:214
+#: teampress/inc/shortcodes/teampress-table.php:305
+msgid "ASC"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:282
+#: teampress/inc/shortcodes/teampress-carousel.php:243
+#: teampress/inc/shortcodes/teampress-grid.php:272
+#: teampress/inc/shortcodes/teampress-list.php:222
+#: teampress/inc/shortcodes/teampress-table.php:313
+msgid "Order by"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:290
+#: teampress/inc/shortcodes/teampress-carousel.php:246
+#: teampress/inc/shortcodes/teampress-grid.php:275
+#: teampress/inc/shortcodes/teampress-list.php:225
+#: teampress/inc/shortcodes/teampress-table.php:316
+msgid "Date"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:292
+#: teampress/inc/shortcodes/teampress-carousel.php:248
+#: teampress/inc/shortcodes/teampress-grid.php:277
+#: teampress/inc/shortcodes/teampress-list.php:227
+#: teampress/inc/shortcodes/teampress-table.php:318
+msgid "Author"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:293
+#: teampress/inc/shortcodes/teampress-carousel.php:249
+#: teampress/inc/shortcodes/teampress-grid.php:278
+#: teampress/inc/shortcodes/teampress-list.php:228
+#: teampress/inc/shortcodes/teampress-table.php:319
+msgid "Title"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:294
+#: teampress/admin/inc/metadata-functions.php:119
+#: teampress/inc/shortcodes/teampress-carousel.php:250
+#: teampress/inc/shortcodes/teampress-grid.php:279
+#: teampress/inc/shortcodes/teampress-list.php:229
+#: teampress/inc/shortcodes/teampress-table.php:142
+#: teampress/inc/shortcodes/teampress-table.php:320
+msgid "Name"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:295
+#: teampress/inc/shortcodes/teampress-carousel.php:251
+#: teampress/inc/shortcodes/teampress-grid.php:280
+#: teampress/inc/shortcodes/teampress-list.php:230
+#: teampress/inc/shortcodes/teampress-table.php:321
+msgid "Modified"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:296
+#: teampress/inc/shortcodes/teampress-carousel.php:252
+#: teampress/inc/shortcodes/teampress-grid.php:281
+#: teampress/inc/shortcodes/teampress-list.php:231
+#: teampress/inc/shortcodes/teampress-table.php:322
+msgid "Parent"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:297
+msgid "Rand"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:298
+#: teampress/inc/shortcodes/teampress-carousel.php:254
+#: teampress/inc/shortcodes/teampress-grid.php:283
+#: teampress/inc/shortcodes/teampress-list.php:233
+#: teampress/inc/shortcodes/teampress-table.php:324
+msgid "Menu order"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:299
+#: teampress/admin/shortcode-builder.php:313
+#: teampress/inc/shortcodes/teampress-carousel.php:255
+#: teampress/inc/shortcodes/teampress-carousel.php:273
+#: teampress/inc/shortcodes/teampress-grid.php:284
+#: teampress/inc/shortcodes/teampress-grid.php:302
+#: teampress/inc/shortcodes/teampress-list.php:234
+#: teampress/inc/shortcodes/teampress-list.php:252
+#: teampress/inc/shortcodes/teampress-table.php:325
+#: teampress/inc/shortcodes/teampress-table.php:343
+msgid "Meta value"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:300
+#: teampress/inc/shortcodes/teampress-carousel.php:256
+#: teampress/inc/shortcodes/teampress-grid.php:285
+#: teampress/inc/shortcodes/teampress-list.php:235
+#: teampress/inc/shortcodes/teampress-table.php:326
+msgid "Meta value num"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:301
+#: teampress/inc/shortcodes/teampress-carousel.php:257
+#: teampress/inc/shortcodes/teampress-grid.php:286
+#: teampress/inc/shortcodes/teampress-list.php:236
+#: teampress/inc/shortcodes/teampress-table.php:327
+msgid "Post__in"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:306
+#: teampress/inc/shortcodes/teampress-carousel.php:265
+#: teampress/inc/shortcodes/teampress-grid.php:294
+#: teampress/inc/shortcodes/teampress-list.php:244
+#: teampress/inc/shortcodes/teampress-table.php:335
+msgid "Meta key"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:307
+#: teampress/inc/shortcodes/teampress-carousel.php:268
+#: teampress/inc/shortcodes/teampress-grid.php:297
+#: teampress/inc/shortcodes/teampress-list.php:247
+#: teampress/inc/shortcodes/teampress-table.php:338
+msgid "Enter meta key to query"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:314
+#: teampress/inc/shortcodes/teampress-carousel.php:276
+#: teampress/inc/shortcodes/teampress-grid.php:305
+#: teampress/inc/shortcodes/teampress-list.php:255
+#: teampress/inc/shortcodes/teampress-table.php:346
+msgid "Enter meta value to query"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:320
+#: teampress/inc/shortcodes/teampress-carousel.php:281
+#: teampress/inc/shortcodes/teampress-grid.php:310
+#: teampress/inc/shortcodes/teampress-list.php:260
+#: teampress/inc/shortcodes/teampress-table.php:351
+msgid "Number of Excerpt"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:327
+#: teampress/inc/shortcodes/teampress-grid.php:319
+#: teampress/inc/shortcodes/teampress-list.php:269
+#: teampress/inc/shortcodes/teampress-table.php:360
+msgid "Page navi"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:328
+#: teampress/inc/shortcodes/teampress-grid.php:325
+msgid "Select type of page navigation"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:335
+#: teampress/inc/shortcodes/teampress-grid.php:322
+#: teampress/inc/shortcodes/teampress-list.php:272
+#: teampress/inc/shortcodes/teampress-table.php:363
+msgid "Number"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:336 teampress/inc/functions.php:408
+#: teampress/inc/shortcodes/teampress-grid.php:323
+#: teampress/inc/shortcodes/teampress-list.php:273
+#: teampress/inc/shortcodes/teampress-table.php:364
+msgid "Load more"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:340
+#: teampress/inc/shortcodes/teampress-grid.php:331
+#: teampress/inc/shortcodes/teampress-list.php:281
+#: teampress/inc/shortcodes/teampress-table.php:384
+msgid "Search box"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:341
+#: teampress/inc/shortcodes/teampress-grid.php:337
+#: teampress/inc/shortcodes/teampress-list.php:287
+#: teampress/inc/shortcodes/teampress-table.php:390
+msgid "Show search box"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:348
+#: teampress/admin/shortcode-builder.php:387
+#: teampress/inc/shortcodes/teampress-grid.php:334
+#: teampress/inc/shortcodes/teampress-grid.php:370
+#: teampress/inc/shortcodes/teampress-list.php:284
+#: teampress/inc/shortcodes/teampress-list.php:320
+#: teampress/inc/shortcodes/teampress-table.php:387
+#: teampress/inc/shortcodes/teampress-table.php:423
+msgid "Hide"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:349
+#: teampress/admin/shortcode-builder.php:388
+#: teampress/inc/shortcodes/teampress-grid.php:335
+#: teampress/inc/shortcodes/teampress-grid.php:371
+#: teampress/inc/shortcodes/teampress-list.php:285
+#: teampress/inc/shortcodes/teampress-list.php:321
+#: teampress/inc/shortcodes/teampress-table.php:388
+#: teampress/inc/shortcodes/teampress-table.php:424
+msgid "Show"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:353
+#: teampress/inc/shortcodes/teampress-grid.php:355
+#: teampress/inc/shortcodes/teampress-list.php:305
+#: teampress/inc/shortcodes/teampress-table.php:408
+msgid "Category Style"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:354
+#: teampress/inc/shortcodes/teampress-grid.php:361
+#: teampress/inc/shortcodes/teampress-list.php:311
+#: teampress/inc/shortcodes/teampress-table.php:414
+msgid "Choice Category Style"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:361
+#: teampress/admin/shortcode-builder.php:400
+#: teampress/inc/shortcodes/teampress-grid.php:358
+#: teampress/inc/shortcodes/teampress-grid.php:394
+#: teampress/inc/shortcodes/teampress-list.php:308
+#: teampress/inc/shortcodes/teampress-list.php:344
+#: teampress/inc/shortcodes/teampress-table.php:411
+#: teampress/inc/shortcodes/teampress-table.php:447
+msgid "Select box"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:362
+#: teampress/admin/shortcode-builder.php:401
+#: teampress/inc/shortcodes/teampress-grid.php:359
+#: teampress/inc/shortcodes/teampress-grid.php:395
+#: teampress/inc/shortcodes/teampress-list.php:309
+#: teampress/inc/shortcodes/teampress-list.php:345
+#: teampress/inc/shortcodes/teampress-table.php:412
+#: teampress/inc/shortcodes/teampress-table.php:448
+msgid "Inline"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:366
+#: teampress/inc/shortcodes/teampress-grid.php:343
+#: teampress/inc/shortcodes/teampress-list.php:293
+#: teampress/inc/shortcodes/teampress-table.php:396
+msgid "Order Category Filter"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:367
+#: teampress/inc/shortcodes/teampress-grid.php:349
+#: teampress/inc/shortcodes/teampress-list.php:299
+#: teampress/inc/shortcodes/teampress-table.php:402
+msgid "Order Category with custom order"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:374
+#: teampress/admin/shortcode-builder.php:413
+#: teampress/admin/shortcode-builder.php:426
+#: teampress/admin/shortcode-builder.php:439
+#: teampress/admin/shortcode-builder.php:451
+#: teampress/admin/shortcode-builder.php:472
+#: teampress/admin/shortcode-builder.php:492
+#: teampress/admin/shortcode-builder.php:505
+#: teampress/admin/inc/metadata-functions.php:442
+#: teampress/admin/inc/metadata-functions.php:454
+#: teampress/admin/inc/metadata-functions.php:474
+#: teampress/admin/inc/metadata-functions.php:532
+#: teampress/admin/inc/metadata-functions.php:543
+#: teampress/inc/shortcodes/teampress-carousel.php:301
+#: teampress/inc/shortcodes/teampress-carousel.php:326
+#: teampress/inc/shortcodes/teampress-carousel.php:338
+#: teampress/inc/shortcodes/teampress-grid.php:346
+#: teampress/inc/shortcodes/teampress-grid.php:382
+#: teampress/inc/shortcodes/teampress-grid.php:406
+#: teampress/inc/shortcodes/teampress-grid.php:418
+#: teampress/inc/shortcodes/teampress-list.php:296
+#: teampress/inc/shortcodes/teampress-list.php:332
+#: teampress/inc/shortcodes/teampress-list.php:356
+#: teampress/inc/shortcodes/teampress-table.php:375
+#: teampress/inc/shortcodes/teampress-table.php:399
+#: teampress/inc/shortcodes/teampress-table.php:435
+#: teampress/inc/shortcodes/teampress-table.php:459
+msgid "No"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:375
+#: teampress/admin/shortcode-builder.php:414
+#: teampress/admin/shortcode-builder.php:427
+#: teampress/admin/shortcode-builder.php:440
+#: teampress/admin/shortcode-builder.php:452
+#: teampress/admin/shortcode-builder.php:473
+#: teampress/admin/shortcode-builder.php:493
+#: teampress/admin/shortcode-builder.php:506
+#: teampress/admin/inc/metadata-functions.php:443
+#: teampress/admin/inc/metadata-functions.php:455
+#: teampress/admin/inc/metadata-functions.php:475
+#: teampress/admin/inc/metadata-functions.php:533
+#: teampress/admin/inc/metadata-functions.php:544
+#: teampress/inc/shortcodes/teampress-carousel.php:302
+#: teampress/inc/shortcodes/teampress-carousel.php:327
+#: teampress/inc/shortcodes/teampress-carousel.php:339
+#: teampress/inc/shortcodes/teampress-grid.php:347
+#: teampress/inc/shortcodes/teampress-grid.php:383
+#: teampress/inc/shortcodes/teampress-grid.php:407
+#: teampress/inc/shortcodes/teampress-grid.php:419
+#: teampress/inc/shortcodes/teampress-list.php:297
+#: teampress/inc/shortcodes/teampress-list.php:333
+#: teampress/inc/shortcodes/teampress-list.php:357
+#: teampress/inc/shortcodes/teampress-table.php:376
+#: teampress/inc/shortcodes/teampress-table.php:400
+#: teampress/inc/shortcodes/teampress-table.php:436
+#: teampress/inc/shortcodes/teampress-table.php:460
+msgid "Yes"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:379
+#: teampress/inc/shortcodes/teampress-grid.php:367
+#: teampress/inc/shortcodes/teampress-list.php:317
+#: teampress/inc/shortcodes/teampress-table.php:420
+msgid "Location box"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:380
+msgid "Show Location box"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:392
+#: teampress/inc/shortcodes/teampress-grid.php:391
+#: teampress/inc/shortcodes/teampress-list.php:341
+#: teampress/inc/shortcodes/teampress-table.php:444
+msgid "Location Style"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:393
+#: teampress/inc/shortcodes/teampress-grid.php:397
+#: teampress/inc/shortcodes/teampress-list.php:347
+#: teampress/inc/shortcodes/teampress-table.php:450
+msgid "Choice Location Style"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:405
+#: teampress/inc/shortcodes/teampress-grid.php:379
+#: teampress/inc/shortcodes/teampress-list.php:329
+#: teampress/inc/shortcodes/teampress-table.php:432
+msgid "Order Location Filter"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:406
+#: teampress/inc/shortcodes/teampress-grid.php:385
+#: teampress/inc/shortcodes/teampress-list.php:335
+#: teampress/inc/shortcodes/teampress-table.php:438
+msgid "Order Location with custom order"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:418
+#: teampress/inc/shortcodes/teampress-grid.php:403
+#: teampress/inc/shortcodes/teampress-list.php:353
+#: teampress/inc/shortcodes/teampress-table.php:456
+msgid "Alphabetical filter"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:419
+#: teampress/inc/shortcodes/teampress-grid.php:409
+#: teampress/inc/shortcodes/teampress-list.php:359
+#: teampress/inc/shortcodes/teampress-table.php:462
+msgid "Show Alphabetical filter"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:431
+#: teampress/inc/shortcodes/teampress-grid.php:415
+msgid "Masonry layout"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:432
+#: teampress/inc/shortcodes/teampress-grid.php:421
+msgid "Enable Masonry layout"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:444
+#: teampress/inc/shortcodes/teampress-table.php:372
+msgid "Live Sort"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:445
+#: teampress/inc/shortcodes/teampress-table.php:378
+msgid "Enable Live Sort"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:464
+#: teampress/inc/shortcodes/teampress-carousel.php:298
+msgid "Autoplay"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:465
+msgid "Enable Autoplay"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:477
+#: teampress/inc/shortcodes/teampress-carousel.php:310
+msgid "Autoplay Speed"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:478
+#: teampress/inc/shortcodes/teampress-carousel.php:317
+msgid "Autoplay Speed in milliseconds. Default:3000"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:484
+msgid "Loading effect"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:485
+#: teampress/inc/shortcodes/teampress-carousel.php:323
+msgid "Enable Loading effect"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:497
+#: teampress/inc/shortcodes/teampress-carousel.php:335
+msgid "Infinite"
+msgstr ""
+
+#: teampress/admin/shortcode-builder.php:498
+#: teampress/inc/shortcodes/teampress-carousel.php:341
+msgid "Infinite loop sliding ( go to first item when end loop)"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:57
+msgid "Team info"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:63
+#: teampress/admin/inc/metadata-functions.php:71
+msgid "Enter position of member"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:70
+msgid "Mobile phone"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:77
+msgid "Email"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:78
+msgid "Enter email of member"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:85
+msgid "Select Main Color for this member"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:91
+msgid "Second Image"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:92
+msgid "Select second Image"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:97
+msgid "Custom/External Link"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:98
+msgid "Enter custom link to replace single member link"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:106
+msgid "Add Custom info"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:109
+msgid "Custom info {#}"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:110
+msgid "Add Another Custom member info"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:111
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:227
+#: teampress/admin/inc/cmb2/includes/CMB2_Types.php:412
+#: teampress/admin/inc/cmb2/includes/types/CMB2_Type_File_Base.php:84
+msgid "Remove"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:125
+msgid "Content"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:126
+msgid "Enter content of custom info"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:134
+msgid "Social account info"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:138
+msgid "Facebook"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:139
+#: teampress/admin/inc/metadata-functions.php:146
+#: teampress/admin/inc/metadata-functions.php:153
+#: teampress/admin/inc/metadata-functions.php:160
+#: teampress/admin/inc/metadata-functions.php:167
+#: teampress/admin/inc/metadata-functions.php:174
+#: teampress/admin/inc/metadata-functions.php:181
+#: teampress/admin/inc/metadata-functions.php:189
+#: teampress/admin/inc/metadata-functions.php:198
+#: teampress/admin/inc/metadata-functions.php:206
+#: teampress/admin/inc/metadata-functions.php:214
+msgid "Enter link of social account"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:145
+msgid "Twitter"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:152
+msgid "Youtube"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:159
+msgid "Instagram"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:166
+msgid "Behance"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:173
+msgid "Dribbble"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:180
+msgid "Flickr"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:188
+msgid "Github"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:197
+msgid "LinkedIn"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:205
+msgid "Pinterest"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:213
+msgid "Tumblr"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:222
+msgid "Custom Social Account"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:228
+msgid "Add Custom Social Account"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:231
+msgid "Custom social {#}"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:232
+msgid "Add Another Custom social"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:233
+msgid "Remove Custom social"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:241
+msgid "Custom social Name"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:247
+msgid "Custom social Link"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:248
+msgid "Enter Custom social account Link"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:253
+msgid "Custom social Link Icon"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:255
+msgid ""
+"Enter Font Awesome 5 html: https://fontawesome.com/icons , example: <i class="
+"\"fab fa-android\"></i>"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:332
+#, php-format
+msgid "%s &mdash; Updated!"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:346
+msgid "Settings"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:351
+msgid "General"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:365
+msgid "Main Color"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:366
+msgid "Choose Main Color for plugin"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:372
+msgid "Content Font Family"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:373
+msgid ""
+"Enter Google font-family name . For example, if you choose \"Source Sans Pro"
+"\" Google Font, enter Source Sans Pro"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:379
+msgid "Content Font Size"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:380
+msgid "Enter size of main font, default:13px, Ex: 14px"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:386
+msgid "Content Font Color"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:387
+msgid "Choose Content Font Color for plugin"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:393
+msgid "Heading Font Family"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:394
+msgid ""
+"Enter Google font-family name. For example, if you choose \"Oswald\" Google "
+"Font, enter Oswald"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:400
+msgid "Heading Font Size"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:401
+msgid "Enter size of heading font, default: 20px, Ex: 22px"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:407
+msgid "Heading Font Color"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:408
+msgid "Choose Heading Font Color for plugin"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:414
+msgid "Meta Font Family"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:415
+msgid ""
+"Enter Google font-family name. For example, if you choose \"Ubuntu\" Google "
+"Font, enter Ubuntu"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:421
+msgid "Meta Font Size"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:422
+msgid "Enter size of metadata font, default:13px, Ex: 12px"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:428
+msgid "Meta Font Color"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:429
+msgid "Choose Meta Font Color for plugin"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:435
+msgid "Disable link & Single member page"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:436
+msgid "Select yes to disable link to single member page"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:447
+msgid "RTL mode"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:448
+msgid "Enable RTL mode for RTL language"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:459
+msgid "Team slug"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:460
+msgid "Remember to save the permalink settings again in Settings > Permalinks"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:467
+msgid "Disable social account"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:468
+msgid "Select yes to disable social account"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:489
+msgid "Custom Code"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:497
+msgid "Custom Css"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:498
+msgid "Paste your custom Css code"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:503
+msgid "Custom Js"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:504
+msgid "Paste your custom Js code"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:518
+msgid "Js + Css file"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:526
+msgid "Turn off Google Font"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:527
+msgid "Turn off loading Google Font"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:537
+msgid "Turn off Font Awesome"
+msgstr ""
+
+#: teampress/admin/inc/metadata-functions.php:538
+msgid ""
+"Turn off loading plugin's Font Awesome. Check if your theme has already "
+"loaded this library"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2.php:179
+msgid "Metabox configuration is required to have an ID parameter."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Ajax.php:75
+msgid "Please Try Again"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Ajax.php:181
+msgid "Remove Embed"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Ajax.php:189
+#: teampress/admin/inc/cmb2/includes/helper-functions.php:105
+#, php-format
+msgid "No oEmbed Results Found for %1$s. View more info at %2$s."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Base.php:422
+#, php-format
+msgid ""
+"The \"%1$s\" field parameter has been deprecated in favor of the \"%2$s\" "
+"parameter."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Base.php:426
+#, php-format
+msgid ""
+"Using the \"%1$s\" field parameter as a callback has been deprecated in "
+"favor of the \"%2$s\" parameter."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Base.php:456
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s! %3$s"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Base.php:458
+#, php-format
+msgid ""
+"%1$s was called with a parameter that is <strong>deprecated</strong> since "
+"version %2$s with no alternative available."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Base.php:491
+#: teampress/admin/inc/cmb2/includes/CMB2_Hookup_Base.php:100
+#: teampress/admin/inc/cmb2/includes/CMB2_Options_Hookup.php:341
+#: teampress/admin/inc/cmb2/includes/types/CMB2_Type_Base.php:172
+#, php-format
+msgid "Invalid %1$s property: %2$s"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Base.php:506
+#: teampress/admin/inc/cmb2/includes/types/CMB2_Type_Base.php:156
+#, php-format
+msgid "Invalid %1$s method: %2$s"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Field.php:1296
+msgid "Add Group"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Field.php:1297
+msgid "Remove Group"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Field.php:1443
+msgid "Sorry, this field does not have a cmb_id specified."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Field_Display.php:432
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:228
+#: teampress/admin/inc/cmb2/includes/types/CMB2_Type_File_Base.php:79
+msgid "File:"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_hookup.php:181
+msgid ""
+"Term Metadata is a WordPress 4.4+ feature. Please upgrade your WordPress "
+"install."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_hookup.php:185
+msgid "Term metaboxes configuration requires a \"taxonomies\" parameter."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_hookup.php:458
+#, php-format
+msgid "Toggle panel: %s"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Hookup_Base.php:42
+#, php-format
+msgid "%1$s should be implemented by the extended class."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:165
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:208
+msgid "Clear"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:166
+msgid "Default"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:167
+msgid "Select Color"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:168
+msgid "Current Color"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:199
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:200
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:201
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:202
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:203
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:204
+msgid "Next"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:205
+msgid "Prev"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:206
+msgid "Today"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:207
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:217
+msgid "Done"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:211
+msgid "Choose Time"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:212
+msgid "Time"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:213
+msgid "Hour"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:214
+msgid "Minute"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:215
+msgid "Second"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:216
+msgid "Now"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:224
+msgid "Use this file"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:225
+msgid "Use these files"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:226
+#: teampress/admin/inc/cmb2/includes/types/CMB2_Type_File_Base.php:64
+msgid "Remove Image"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:229
+#: teampress/admin/inc/cmb2/includes/types/CMB2_Type_File_Base.php:82
+msgid "Download"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_JS.php:230
+msgid "Select / Deselect All"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Options_Hookup.php:131
+msgid "Nothing to update."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Options_Hookup.php:135
+msgid "Settings updated."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Types.php:231
+msgid "Custom CMB2 field type classes must extend CMB2_Type_Base."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Types.php:349
+msgid "Add Row"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/CMB2_Types.php:412
+msgid "Remove Row"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/helper-functions.php:303
+msgid "Save"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:257
+msgid "This box does not have read permissions."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:277
+msgid "This box does not have write permissions."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:300
+msgid ""
+"No box found by that id. A box needs to be registered with the \"show_in_rest"
+"\" parameter configured."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:378
+msgid "A human-readable description of the object."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:385
+msgid "The id for the object."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller.php:392
+msgid "The title for the object."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:51
+msgid "Includes the registered fields for the box in the response."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:72
+msgid ""
+"Includes the fully rendered attributes, 'form_open', 'form_close', as well "
+"as the enqueued 'js_dependencies' script handles, and 'css_dependencies' "
+"stylesheet handles."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Boxes.php:122
+msgid "No boxes found."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:27
+msgid ""
+"Includes the box object which the fields are registered to in the response."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:30
+msgid ""
+"When the '_rendered' argument is passed, the renderable field attributes "
+"will be returned fully rendered. By default, the names of the callback "
+"handers for the renderable attributes will be returned."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:33
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:36
+msgid ""
+"To view or modify the field's value, the 'object_id' and 'object_type' "
+"arguments are required."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:236
+msgid ""
+"CMB2 Field value cannot be updated without the value parameter specified."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:297
+msgid ""
+"CMB2 Field value cannot be modified without the object_id and object_type "
+"parameters specified."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:312
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:341
+msgid "No field found by that id."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/rest-api/CMB2_REST_Controller_Fields.php:415
+#, php-format
+msgid "Value Error for %s"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:25
+#, php-format
+msgid "Method '%s' must be overridden."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:35
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:47
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:59
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:71
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:83
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:95
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:107
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:119
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:131
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:143
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:155
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:168
+#, php-format
+msgid "Method '%s' not implemented. Must be overridden in subclass."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:273
+msgid "Current page of the collection."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:281
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:290
+msgid "Limit results to those matching a string."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/shim/WP_REST_Controller.php:308
+msgid ""
+"Scope under which the request is made; determines fields present in response."
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/types/CMB2_Type_File.php:76
+msgid "Add or Upload File"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/types/CMB2_Type_File_List.php:41
+msgid "Add or Upload Files"
+msgstr ""
+
+#: teampress/admin/inc/cmb2/includes/types/CMB2_Type_Taxonomy_Base.php:115
+msgid "No terms"
+msgstr ""
+
+#: teampress/inc/functions.php:484 teampress/inc/functions.php:641
+#: teampress/inc/functions.php:649 teampress/inc/functions.php:842
+msgid "No matching records found"
+msgstr ""
+
+#: teampress/inc/functions.php:572 teampress/inc/functions.php:897
+#: teampress/inc/functions.php:948 teampress/inc/functions.php:1048
+#: teampress/inc/functions.php:1060
+msgid "All"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-carousel.php:111
+msgid "TeamPress - Carousel"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-carousel.php:116
+#: teampress/inc/shortcodes/teampress-grid.php:138
+#: teampress/inc/shortcodes/teampress-list.php:130
+#: teampress/inc/shortcodes/teampress-table.php:222
+#: teampress/inc/widgets/teampress.php:8
+msgid "TeamPress"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-carousel.php:156
+#: teampress/inc/shortcodes/teampress-grid.php:178
+#: teampress/inc/shortcodes/teampress-list.php:143
+#: teampress/inc/shortcodes/teampress-table.php:234
+msgid "Number of style"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-carousel.php:169
+msgid "Number item visible"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-carousel.php:253
+#: teampress/inc/shortcodes/teampress-grid.php:282
+#: teampress/inc/shortcodes/teampress-list.php:232
+#: teampress/inc/shortcodes/teampress-table.php:323
+msgid "Random"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-carousel.php:284
+msgid "Enter number, Default:10"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-grid.php:133
+msgid "TeamPress - Grid"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-grid.php:192
+msgid "Number of column"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-grid.php:373
+#: teampress/inc/shortcodes/teampress-list.php:323
+#: teampress/inc/shortcodes/teampress-table.php:426
+msgid "Show location box"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-list.php:125
+msgid "TeamPress - List"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-list.php:275
+#: teampress/inc/shortcodes/teampress-table.php:366
+msgid "Show load more"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-table.php:133
+msgid "Search: "
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-table.php:141
+msgid "Image"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-table.php:142
+msgid "Detail"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-table.php:145
+msgid "Description"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-table.php:147
+msgid "Social"
+msgstr ""
+
+#: teampress/inc/shortcodes/teampress-table.php:217
+msgid "TeamPress - Table"
+msgstr ""
+
+#: teampress/inc/widgets/teampress.php:6
+msgid "Display your team from shortcode builder via widget"
+msgstr ""
+
+#: teampress/inc/widgets/teampress.php:30
+msgid "Choose a Team"
+msgstr ""
+
+#: teampress/inc/widgets/teampress.php:40
+msgid "Title:"
+msgstr ""
+
+#: teampress/inc/widgets/teampress.php:44
+msgid "Select Team"
+msgstr ""
+
+#: teampress/templates/single-team.php:21
+#: teampress/templates/content-shortcodes/content-collapse.php:21
+#: teampress/templates/content-shortcodes/content-lightbox.php:12
+#: teampress/templates/content-shortcodes/content-modal.php:17
+msgid "Position: "
+msgstr ""
+
+#: teampress/templates/single-team.php:28
+#: teampress/templates/content-shortcodes/content-collapse.php:25
+#: teampress/templates/content-shortcodes/content-grid-9.php:28
+#: teampress/templates/content-shortcodes/content-lightbox.php:16
+#: teampress/templates/content-shortcodes/content-modal.php:21
+msgid "Phone: "
+msgstr ""
+
+#: teampress/templates/single-team.php:35
+#: teampress/templates/content-shortcodes/content-collapse.php:29
+#: teampress/templates/content-shortcodes/content-grid-9.php:32
+#: teampress/templates/content-shortcodes/content-lightbox.php:20
+#: teampress/templates/content-shortcodes/content-modal.php:25
+msgid "Email: "
+msgstr ""
